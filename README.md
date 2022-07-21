@@ -67,6 +67,10 @@ represent the weights of the mixture, possibly infinite. In practice, we can cho
 
 The model we use consider $F$ as a Normal distribution. We use `sklearn.mixture.BayesianGaussianMixture` which implements the model we described above and perform learning by the use of Variational Inference. The model is first tested on a synthetic dataset made by mutimodal gaussians and the it is used for clustering the _20newgroups dataset_. Due to the high dimensionality of the data after the preprocessing, done by means of tf-idf, we used a dimensionality reduction technique, named t-SNE. This is a stochastic dimensionality reduction technique very useful to visualize high dimensional sparse data, cosider reading [4].
 
+## Results
+
+A small presentation done by me and my colleague [Alessandro Pierro]() at the University of Trieste during our Master Course is available to check results and for further details.
+
 ## References
 
 1. F. Ebadi and M. Norouzi, "Road Terrain detection and Classification algorithm based on the Color Feature extraction," 2017 Artificial Intelligence and Robotics (IRANOPEN), 2017, pp. 139-146, doi: 10.1109/RIOS.2017.7956457.
