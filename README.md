@@ -69,7 +69,7 @@ The model we use consider $F$ as a Normal distribution. We use `sklearn.mixture.
 
 ## Results
 
-A small presentation done by me and my colleague [Alessandro Pierro]() at the University of Trieste during our Master Course is available to check results and for further details.
+A small presentation done by me and my colleague [Alessandro Pierro](https://github.com/AlessandroPierro) at the University of Trieste during our Master Course is available to check results and for further details.
 
 ## References
 
