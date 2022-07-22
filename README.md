@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Cluster analysis is the task of partitioning a set of observations into sub-groups, called a clusters, such that observations in the same clusters are closer with respect to a similarity measure to each other than to those in other clusters. In theory, data points that are in the same group (cluster) should have high similarity, while data points in different groups should have lower similarity. The choice of the similarity measure is dependent on the specific problem. An example of clustering is shown in Figure 1, where we show how unlabelled data can be labelled according to three clusters.
+Cluster analysis is the task of partitioning a set of observations into sub-groups, called clusters, such that observations in the same clusters are closer with respect to a similarity measure to each other than to those in other clusters. In theory, data points that are in the same group (cluster) should have high similarity, while data points in different groups should have lower similarity. The choice of the similarity measure is dependent on the specific problem. An example of clustering is shown in Figure 1, where we show how unlabelled data can be labelled according to three clusters.
 
 
 <figure>
